@@ -1,0 +1,12 @@
+app: .NOTICE
+- NOTICE
+- WiiuBru Team
+- A message about HBASs
+- NOTICE.elf
+- -1
+app: wupymod
+- WUP Installer
+- Crediar, Dimok ,Yardape8000
+- WiiU public title installer.
+- wupinstaller.elf
+- 1.3
